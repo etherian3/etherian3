@@ -1,63 +1,43 @@
 <h1 align="center">
-  >Hello World!
+  > Hello World!
 </h1>
 
 ###
 
-<h3 align="center">6 hours of debugging can save you 5 minutes of reading documentation</h3>
+<h3 align="center"></h3>
 
 ###
 
-<h2 align="left"> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Skills</h2>
-
-###
-
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=javascript,solidity,nodejs,nextjs,react,rust,ts,bootstrap,css,html,tailwind,vscode,linux,github&perline=15" />
-  </a>
-</p>
-
-###
-
-<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=rianchain" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=rianchain" height="150" alt="languages graph"  />
-</div>
 
-###
+# 💫About Me:
+🔭 I’m currently working on my own project<br>👯 I’m looking to collaborate on web3 development<br>🤝 I’m looking for help with your problem issue<br>🌱 I’m currently learning solana development<br>💬 Ask me about web3 and blockchain 
 
-<h2 align="left">Github Streak Statistics</h2>
 
-###
+##  Socials🌐:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rianzi-hasan-albana-255412295) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/15234440/etherian) 
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rianchain&theme=dark" alt="rianchain" />
-</div>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rianchain&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rianchain&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rianchain&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rianchain&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-----
-    
-<div align="center">Thank you for visiting my profile! I hope you find it interesting and informative. I am excited to be a part of the developer community and I'm always looking for ways to improve my skills and knowledge.</div>
+---
+[![](https://visitcount.itsvg.in/api?id=rianchain&icon=2&color=0)](https://visitcount.itsvg.in)
 
-###
+"Decentralization is the key to overcoming many of the problems we face today, such as data privacy, censorship, and monopolies. By putting power back into the hands of users, we can create a more free and open internet."
 
-<div align="center">
-  <a href="#">
-      <img src="https://komarev.com/ghpvc/?username=rianchain&label=Profile%20views&color=0e75b6&style=flat" alt="rianchain" align="center" /> 
-  <a/>
-  <a href="https://github.com/rianchain?tab=followers">
-    <img src="https://img.shields.io/github/followers/ramazancetinkaya?label=Followers&style=social" alt="GitHub Badge" align="center">
-  <a/>
 </div>
     
 ###
