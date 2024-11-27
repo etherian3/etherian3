@@ -31,12 +31,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=rianchain&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+"Decentralization is the key to overcoming many of the problems we face today, such as data privacy, censorship, and monopolies. By putting power back into the hands of users, we can create a more free and open internet."
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rianchain&icon=2&color=0)](https://visitcount.itsvg.in)
 
-"Decentralization is the key to overcoming many of the problems we face today, such as data privacy, censorship, and monopolies. By putting power back into the hands of users, we can create a more free and open internet."
+
 
 </div>
     
