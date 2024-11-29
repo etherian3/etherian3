@@ -14,7 +14,7 @@
 <div align="center">
 
 # 💫About Me:
-<h6>🔭 I’m currently working on my own project<br>👯 I’m looking to collaborate on web3 <br>🤝 I’m looking for help with your problem issue<br>🌱 I’m currently learning solana development<br>💬 Ask me about web3 and blockchain </h6>
+<h6>🔭 I’m currently working on my own project<br>👯 I’m looking to collaborate on web3 <br> <br>🌱 I’m currently learning solana development<br>💬 Ask me about web3 and blockchain </h6>
 
 
 ##  Socials🌐:
