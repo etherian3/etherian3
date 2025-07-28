@@ -18,7 +18,7 @@
 
 With a deep understanding of smart contract development, gas optimization, and blockchain architecture, I strive to create meaningful projects that push forward the decentralized web.
 
-Currently, I’m actively exploring cutting-edge protocols in DeFi, NFTs, Layer 2 scaling, and ZK (Zero-Knowledge) technologies. </h6>
+
 
 
 ##  Socials🌐:
