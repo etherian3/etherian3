@@ -14,7 +14,7 @@
 <div align="center">
 
 # 💫About Me:
-<h6>Hi! I'm a passionate Web3 Developer & Smart Contract Engineer with a strong focus on blockchain technologies. I specialize in building secure, efficient, and scalable decentralized applications (dApps) and smart contracts—primarily on the Ethereum Virtual Machine (EVM) ecosystem using Solidity.
+<h6>Hi! I'm a Blockchain Developer & Smart Contract Engineer with a strong focus on blockchain technologies. I specialize in building secure, efficient, and scalable decentralized applications (dApps) and smart contracts—primarily on the Ethereum Virtual Machine (EVM) ecosystem using Solidity.
 
 With a deep understanding of smart contract development, gas optimization, and blockchain architecture, I strive to create meaningful projects that push forward the decentralized web.
 
