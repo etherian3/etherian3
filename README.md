@@ -2,14 +2,6 @@
   > Hello Tech World!
 </h1>
 
-###
-
-<h3 align="center"></h3>
-
-###
-
-
-###
 
 <div align="center">
 
@@ -29,14 +21,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=etherian3&theme=transparent&hide_border=true)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=etherian3&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Dev Quote
-"Decentralization is the key to overcoming many of the problems we face today, such as data privacy, censorship, and monopolies. By putting power back into the hands of users, we can create a more free and open internet."
 
----
-[![](https://visitcount.itsvg.in/api?id=etherian3&icon=2&color=0)](https://visitcount.itsvg.in)
+
 
 
 
